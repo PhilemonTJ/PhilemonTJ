@@ -18,7 +18,7 @@ I'm a **Computer Science and Engineering** student specializing in **Data Scienc
 </p>
 
 ## 💻 Tech Stack:
- <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,replit,pycharm,python,c,cpp,java,markdown,pytorch,tensorflow,sklearn,matlab,numpy,pandas,matplotlib,scipy,seaborn,opencv,html,css,javascript,bootstrap,jquery,react,tailwindcss,expressjs,mongoose,mongodb,streamlit,npm,figma,git,github,linux,ubuntu,bash,mysql,sqlite,chatgpt,claude,deepseek,gemini,langchain,pinecone,llamaindex,looker,tableau,pbi&perline=12"/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,replit,pycharm,python,c,cpp,java,markdown,pytorch,tensorflow,sklearn,matlab,numpy,pandas,matplotlib,scipy,seaborn,opencv,html,css,javascript,bootstrap,jquery,react,tailwindcss,expressjs,mongoose,mongodb,streamlit,npm,figma,git,github,linux,ubuntu,bash,mysql,sqlite,chatgpt,claude,deepseek,gemini,langchain,pinecone,llamaindex,looker,tableau,pbi&perline=13"/>
 
 
 ## 📊 GitHub Stats:
