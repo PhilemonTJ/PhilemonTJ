@@ -12,9 +12,6 @@ I'm a **Computer Science and Engineering** student specializing in **Data Scienc
   <a href="https://www.instagram.com/thephil.t.j/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram"/>
   </a>
-   <a href="https://leetcode.com/u/Philemon_T_Joseph/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode"/>
-  </a>
 </p>
 
 ## 💻 Tech Stack:
