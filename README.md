@@ -15,7 +15,7 @@ I'm a **Computer Science and Engineering** student specializing in **Data Scienc
 </p>
 
 ## 💻 Tech Stack:
- <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,cursor,eclipse,googlecolab,replit,pycharm,python,c,cpp,java,dart,markdown,pytorch,tensorflow,sklearn,numpy,pandas,matplotlib,scipy,seaborn,opencv,html,css,javascript,typescript,bootstrap,jquery,vite,react,tailwindcss,expressjs,mongoose,mongodb,streamlit,npm,flutter,androidstudio,canva,figma,inkscape,blender,git,github,docker,linux,ubuntu,bash,mysql,sqlite,chatgpt,claude,deepseek,gemini,langchain,pinecone,llamaindex,looker,tableau,pbi&perline=13"/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,cursor,eclipse,googlecolab,replit,pycharm,jupyter,python,c,cpp,java,dart,markdown,pytorch,tensorflow,sklearn,numpy,pandas,matplotlib,scipy,seaborn,opencv,html,css,javascript,typescript,bootstrap,jquery,vite,react,tailwindcss,expressjs,mongoose,mongodb,excel,streamlit,postman,npm,flutter,androidstudio,firebase,canva,figma,framer,inkscape,blender,git,github,aws,docker,linux,ubuntu,bash,mysql,sqlite,chatgpt,claude,deepseek,gemini,langchain,pinecone,llamaindex,looker,tableau,pbi&perline=13"/>
 
 
 ## 📊 GitHub Stats:
