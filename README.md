@@ -19,9 +19,11 @@ I'm a **Computer Science and Engineering** student specializing in **Data Scienc
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PhilemonTJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PhilemonTJ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilemonTJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=PhilemonTJ&theme=github_dark)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=PhilemonTJ&show_icons=true&theme=github_dark)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PhilemonTJ&layout=compact&theme=github_dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=PhilemonTJ&theme=radical&no-frame=false&no-bg=true&margin-w=4)
