@@ -14,9 +14,21 @@ I'm a **Computer Science and Engineering** student specializing in **Data Scienc
   </a>
 </p>
 
-## 💻 Tech Stack:
- <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,cursor,eclipse,googlecolab,replit,pycharm,jupyter,python,c,cpp,java,dart,markdown,pytorch,tensorflow,sklearn,numpy,pandas,matplotlib,scipy,seaborn,opencv,html,css,javascript,typescript,bootstrap,jquery,vite,react,nestjs,nextjs,tailwindcss,expressjs,mongoose,mongodb,mysql,sqlite,postgresql,prisma,excel,streamlit,postman,swagger,npm,webpack,flutter,androidstudio,firebase,canva,figma,framer,inkscape,blender,git,github,aws,docker,linux,ubuntu,bash,chatgpt,claude,deepseek,gemini,langchain,pinecone,llamaindex,looker,tableau,pbi&perline=13"/>
+## 💻 Tech Stack
+### 🚀 Core Programming
+<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,javascript,typescript&perline=8"/> </p>
 
+### 📊 Data Science & AI
+<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,scipy,opencv&perline=8"/> </p>
+
+### 🌐 Web Development (Frontend + Backend)
+<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nextjs,tailwindcss,bootstrap,vite,nodejs,expressjs,nestjs&perline=10"/> </p>
+
+### 🗄️ Databases & APIs
+<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgresql,sqlite,mongoose,prisma,postman,swagger&perline=8"/> </p>
+
+### 📱 Mobile, Cloud & Tools
+<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,androidstudio,firebase,aws,docker,git,github,gitlab,figma,canva,excel,tableau,pbi,looker,chatgpt,claude,gemini&perline=10"/> </p>
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=PhilemonTJ&theme=github_dark)
