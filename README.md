@@ -16,19 +16,19 @@ I'm a **Computer Science and Engineering** student specializing in **Data Scienc
 
 ## 💻 Tech Stack
 ### 🚀 Core Programming
-<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,javascript,typescript&perline=8"/> </p>
+<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,javascript,typescript&perline=10"/> </p>
 
 ### 📊 Data Science & AI
-<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,scipy,opencv&perline=8"/> </p>
+<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,scipy,opencv,excel,tableau,pbi,looker&perline=10"/> </p>
 
 ### 🌐 Web Development (Frontend + Backend)
 <p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nextjs,tailwindcss,bootstrap,vite,nodejs,expressjs,nestjs,dotnet,redis,rabbitmq&perline=10"/> </p>
 
 ### 🗄️ Databases & APIs
-<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgresql,sqlite,mongoose,prisma,postman,swagger&perline=8"/> </p>
+<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgresql,sqlite,mongoose,prisma,postman,swagger&perline=10"/> </p>
 
 ### 📱 Mobile, Cloud & Tools
-<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,androidstudio,firebase,aws,docker,git,github,gitlab,figma,canva,excel,tableau,pbi,looker,chatgpt,claude,gemini&perline=10"/> </p>
+<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,androidstudio,firebase,aws,docker,git,github,gitlab,figma,canva,chatgpt,claude,gemini&perline=10"/> </p>
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=PhilemonTJ&theme=github_dark)
