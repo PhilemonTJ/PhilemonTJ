@@ -22,7 +22,7 @@ I'm a **Computer Science and Engineering** student specializing in **Data Scienc
 <p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,scipy,opencv&perline=8"/> </p>
 
 ### 🌐 Web Development (Frontend + Backend)
-<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nextjs,tailwindcss,bootstrap,vite,nodejs,expressjs,nestjs&perline=10"/> </p>
+<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nextjs,tailwindcss,bootstrap,vite,nodejs,expressjs,nestjs,dotnet,redis,rabbitmq&perline=10"/> </p>
 
 ### 🗄️ Databases & APIs
 <p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgresql,sqlite,mongoose,prisma,postman,swagger&perline=8"/> </p>
